@@ -194,7 +194,7 @@
     "message": "Payment failed"
   },
   "pushNotificationMembershipPaymentFailedDescription": {
-    "message": "Add funds to your Money account to restore membership."
+    "message": "Your payment is overdue. Move funds to your Money account to restore membership."
   },
   "pushNotificationMembershipInactiveTitle": {
     "message": "Your membership is inactive"
